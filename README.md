@@ -1,4 +1,4 @@
-# SteamKT - Kotlin wrapper for Steam
+# SteamKT - Kotlin wrapper for Steam for personal use. I know about shittycode. I study.
 
 ![](resources/steam.png)
 <hr>
