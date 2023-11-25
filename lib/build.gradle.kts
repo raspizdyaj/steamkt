@@ -20,6 +20,7 @@ dependencies {
     implementation("com.google.guava:guava:32.1.1-jre")
     implementation("com.squareup.moshi:moshi:1.14.0")
     implementation("org.slf4j:slf4j-api:2.0.9")
+    implementation("org.slf4j:slf4j-simple:2.0.9") // For test
 
     api("org.apache.commons:commons-math3:3.6.1")
 }
